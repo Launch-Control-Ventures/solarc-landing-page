@@ -11,9 +11,9 @@ presskit_download_link                    : https://emilbaehr.com               
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : /assets/Icon.png                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Solarc - Track Weather Forecast           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Solarc                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Sunrise & Sunset for Friends
+app_description                           : Sunrise, Sunset, & Weather for Friends
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Follow Your Friends' Weather
     description                           : Track up to 20 locations at once; rename them to keep up to date on the conditions for friends and loved ones far away.
-    fontawesome_icon_name                 : people-group
+    fontawesome_icon_name                 : people-pants
 
   - title                                 : Hourly Forecast
     description                           : Quickly check for rain this afternoon or tomorrow morning and set your favorite condition to show automatically.
