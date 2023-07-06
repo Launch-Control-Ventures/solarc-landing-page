@@ -4,8 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here is a history of Solarc's releases and what has changed over time.
+# What's New
 
 <br>
 
