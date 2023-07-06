@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Follow Your Friends' Weather
     description                           : Track up to 20 locations at once; rename them to keep up to date on the conditions for friends and loved ones far away.
-    fontawesome_icon_name                 : people-pants
+    fontawesome_icon_name                 : user-friends
 
   - title                                 : Hourly Forecast
     description                           : Quickly check for rain this afternoon or tomorrow morning and set your favorite condition to show automatically.
