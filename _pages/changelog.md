@@ -9,7 +9,7 @@ include_in_header: true
 <br>
 
 ## **Version 1.1**
-#### Release pending
+#### Released September 5, 2023
 The first update of Solarc brings many refinements and new visualizations to the app, including:
 * NEW: Pull-to-refresh available on the main list to update all locations (will only update if weather data is refreshed)
 * NEW: Weather icons render in multiple colors (if available)
