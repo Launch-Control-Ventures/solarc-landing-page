@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Severe Weather
     description                           : Stay up-to-date on any severe weather watches or warnings for you and those close to you.
-    fontawesome_icon_name                 : hurricane 
+    fontawesome_icon_name                 : cloud-rain 
 
   - title                                 : A Weather Nerd's Dream 
     description                           : So much more than temperature. Track wind and wind gusts, humidity, UV index, visibility, cloud cover, pressure, precipitation chance and amount, and sunrise and sunset times.
