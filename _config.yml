@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : cloud-bolt
 
   - title                                 : A Weather Nerd's Dream 
-    description                           : So much more than temperature: wind and wind gusts, humidity, UV index, visibility, cloud cover, pressure, precipitation chance and amount, and sunrise and sunset times.
+    description                           : So much more than temperature. Track wind and wind gusts, humidity, UV index, visibility, cloud cover, pressure, precipitation chance and amount, and sunrise and sunset times.
     fontawesome_icon_name                 : gauge
 
   - title                                 : Hourly Forecast
