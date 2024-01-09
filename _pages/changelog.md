@@ -8,6 +8,20 @@ include_in_header: true
 
 <br>
 
+## **Version 2024.1**
+#### Released January 9, 2024
+The first new version of Solarc for 2024 brings many refinements and new information to the app, including:
+
+* NEW: current wind gust information is now available on the detail screen
+* NEW: current UV index, visibility, cloud cover, and atmospheric pressure are now available on the detail screen
+* NEW: atmospheric pressure can be displayed in 1 of 5 different units, depending on user preference
+* IMPROVED: new visual style for hourly forecast to be more information dense
+* IMPROVED: visibility only shows during daylight hours
+
+And other various bug fixes and improvements.
+
+<br>
+
 ## **Version 1.1**
 #### Released September 5, 2023
 The first update of Solarc brings many refinements and new visualizations to the app, including:
