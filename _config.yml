@@ -44,14 +44,21 @@ features                                  :
     description                           : Track up to 20 locations at once; rename them to keep up to date on the conditions for friends and loved ones far away.
     fontawesome_icon_name                 : user-friends
 
+  - title                                 : Severe Weather
+    description                           : Stay up-to-date on any severe weather watches or warnings for you and those close to you.
+    fontawesome_icon_name                 : cloud-bolt
+
+  - title                                 : A Weather Nerd's Dream 
+    description                           : So much more than temperature: wind and wind gusts, humidity, UV index, visibility, cloud cover, pressure, precipitation chance and amount, and sunrise and sunset times.
+    fontawesome_icon_name                 : gauge
+
   - title                                 : Hourly Forecast
-    description                           : Quickly check for rain this afternoon or tomorrow morning and set your favorite condition to show automatically.
-    fontawesome_icon_name                 : cloud-rain
+    description                           : Quickly check for rain or snow this afternoon or tomorrow morning and set your favorite condition to show automatically.
+    fontawesome_icon_name                 : snowflake
 
   - title                                 : 10-Day Forecast
     description                           : See the next 10 days at-a-glance and focus on the most important weather aspects for you.
     fontawesome_icon_name                 : umbrella
-
 
 # Theme Settings
 topbar_color                              : "#000000"
